@@ -44,3 +44,8 @@ Sinta-se à vontade para contribuir com este projeto, seja corrigindo bugs, adic
 ## Licença
 
 Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+
+
+## Notas
+
+Este arquivo README e o código contido nesse repositório foram escritos para demonstrar a capacidade do ChatGPT 4.0
